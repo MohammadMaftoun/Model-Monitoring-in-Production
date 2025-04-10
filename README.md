@@ -1,8 +1,6 @@
 Welcome to the Model Monitoring in Production repository, a practical guide and toolkit for ensuring that your machine learning models remain reliable, accurate, and trustworthy after deployment.
 This repo showcases end-to-end monitoring solutions with hands-on code, concepts, and real-world integrations.
 
-![E-commerce](https://www.bdb.ai/resources/images/customer-analytics/customer-analytics.png?v=27feb)
-
 
 🚀 Why Model Monitoring Matters
 
