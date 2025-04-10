@@ -1,4 +1,6 @@
-Welcome to the Model Monitoring in Production repository — a practical guide and toolkit for ensuring your machine learning models remain reliable, accurate, and trustworthy after deployment. This repo showcases end-to-end monitoring solutions with hands-on code, concepts, and real-world integrations.
+Welcome to the Model Monitoring in Production repository — a practical guide and toolkit for ensuring your machine learning models remain reliable, accurate, and trustworthy after deployment.
+This repo showcases end-to-end monitoring solutions with hands-on code, concepts, and real-world integrations.
+
 🚀 Why Model Monitoring Matters
 
 Deploying a model is only the beginning. In production, models are exposed to real-world data that can evolve — and so must your awareness of how the model behaves. Without proper monitoring, you risk:
@@ -13,10 +15,12 @@ Deploying a model is only the beginning. In production, models are exposed to re
 
     Wasted business opportunities
 
-This repository helps you address all that — with automated, scalable, and explainable monitoring solutions.
+This repository helps you address all that with automated, scalable, and explainable monitoring solutions.
+
 🔧 What’s Inside
 
 This repo includes guides, templates, and working examples for:
+
 📉 Drift Detection
 
     Data drift (input distribution change)
@@ -43,7 +47,7 @@ This repo includes guides, templates, and working examples for:
 
 📊 Metrics Tracking
 
-    Model accuracy, precision, recall, F1-score in production
+    Model accuracy, precision, recall, and F1-score in production
 
     Data quality metrics (nulls, outliers, unexpected categories)
 
@@ -83,7 +87,7 @@ Time-series model monitoring
 
 Integration with OpenTelemetry
 
-    Auto-scaling based on model health
+Auto-scaling based on model health
 
 📎 License & Contributions
 
