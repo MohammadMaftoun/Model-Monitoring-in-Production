@@ -5,7 +5,7 @@ This repository showcases end-to-end monitoring solutions with hands-on code, co
 
 🚀 Why Model Monitoring Matters
 
-Deploying a model is only the beginning. In production, models are exposed to real-world data that can evolve — and so must your awareness of how the model behaves. Without proper monitoring, you risk:
+Deploying a model is only the beginning. In production, models are exposed to real-world data that can evolve — and so must your understanding of how the model behaves. Without proper monitoring, you risk:
 
     Model performance decay (concept drift, data drift)
 
