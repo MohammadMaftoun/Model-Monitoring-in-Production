@@ -91,6 +91,6 @@ Integration with OpenTelemetry
 
 Auto-scaling based on model health
 
-📎 License & Contributions
+📎 Contributions
 
-Feel free to fork, contribute, or open issues! Contributions are always welcome. This project is licensed under the MIT License.
+Feel free to fork, contribute, or open issues! Contributions are always welcome.
