@@ -63,7 +63,7 @@ This repo includes guides, templates, and working examples for:
 
 🧰 Tools & Integrations
 
-    EvidentlyAI, WhyLabs, Prometheus, Grafana
+    EvidentlyAI, WhyLabs, Prometheus, and Grafana
 
     MLflow for model lifecycle tracking
 
@@ -73,7 +73,7 @@ This repo includes guides, templates, and working examples for:
 
 👨‍💻 Who Should Use This Repo?
 
-    MLOps Engineers – To ensure reliable ML infrastructure
+    MLOps Engineers – To ensure a reliable ML infrastructure
 
     Data Scientists – To verify model integrity post-deployment
 
