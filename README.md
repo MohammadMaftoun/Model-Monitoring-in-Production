@@ -1,4 +1,4 @@
-Welcome to the Model Monitoring in Production repository, a practical guide and toolkit for ensuring that your machine learning (ML) models remain reliable, accurate, and trustworthy after deployment.
+Welcome to the Model Monitoring in Production repository, a practical guide and toolkit for guaranteeing that your machine learning (ML) models remain reliable, accurate, and trustworthy after deployment.
 This repository showcases end-to-end monitoring solutions with hands-on code, concepts, and real-world integrations.
 
 ![MMP](https://cdn.prod.website-files.com/5e067beb4c88a64e31622d4b/63090ac69e3f731e8802b33f_diagram-mpm-lifecycle_fiddler.png)
